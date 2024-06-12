@@ -24,7 +24,7 @@ p{
   
   .App:before {
     content: '';
-    background: url('./assets/Sunset.jpg') no-repeat center center/cover ;
+    background: url('./assets/sunset.jpg') no-repeat center center/cover ;
     background-size: cover;
     position: absolute;
     width: 100%;
